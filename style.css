@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+#map {
+    height: 180px;
+}
+
+#titolo {
+    color: blue;
+    text-decoration: underline;
+}
+
+#link {
+    color: aqua;
+}
